@@ -4,7 +4,7 @@ channel shuffling and implicit modules. Experiments on 300W show that YOLOLandma
 
 <br/> 
 <p float="left">
-<img width="800" src="utils/figures/mAP_FLOPS.png">
+<img width="700" src="ParadigmCompare.png">
 </p>   
 
 
