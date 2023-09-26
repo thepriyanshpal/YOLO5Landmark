@@ -11,7 +11,7 @@ channel shuffling and implicit modules. Experiments on 300W show that YOLOLandma
 We also test our framework on COFW and demonstrate its robustness under challenging conditions.
 <br/> 
 <p float="left">
-<img width="500" src="demo.png">
+<img width="600" src="demo.png">
 </p>   
 
 # YOLOV5-ti-lite Object Detection Models
