@@ -1,4 +1,4 @@
-# YOLO5Landmard 
+# YOLO5Landmark 
 YOLO5Landmard is based on the YOLOPose model to achieve the end-to-end facial landmard detection. Existing methods typically use two-stage approaches that first capture faces using advanced detectors or ground truth, then apply deep network to predict facial landmarks. However, these methods are not suitable for real-time applications especially on edge devices. Our framework can detect faces and their landmarks in one stage using an end-to-end way. We modify YOLO by setting multi-target labels to face label and adding an extra head for landmark localization. We also improve YOLO by using structural re-parameterization,
 channel shuffling and implicit modules. Experiments on 300W show that YOLOLandmark achieves high accuracy and real-time speed compared with some selected state-of-the-art methods. 
 
